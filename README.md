@@ -1,5 +1,3 @@
-# DrugInteraction-pupilicahackathon
-
 # 💊 AI-Powered Drug Interaction Checker
 
 ## 📌 Proje Amacı
